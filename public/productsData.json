@@ -1,0 +1,291 @@
+[
+  {
+    "id": "apple-iphone-15-pro-max",
+    "title": "Apple iPhone 15 Pro Max",
+    "image": "https://i.ibb.co/xsHRdvZ/iphone15.webp",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "samsung-galaxy-s23-ultra",
+    "title": "Samsung Galaxy S23 Ultra",
+    "image": "https://i.ibb.co/16Y40xk/samsungs23.jpg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "Redefine photography with the Samsung Galaxy S23 Ultra.",
+    "specification": [
+      "6.8-inch AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "200MP Quad-camera",
+      "5000mAh battery",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "google-pixel-7-pro",
+    "title": "Google Pixel 7 Pro",
+    "image": "https://i.ibb.co/BjkRkdH/Google-Pixel7-Pro-256-GB-12-GB-Snow.webp",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "The smartest phone with Google’s AI-powered features.",
+    "specification": [
+      "6.7-inch OLED display",
+      "Google Tensor G2",
+      "50MP Triple-camera",
+      "5000mAh battery",
+      "128GB to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "nothing-phone-2",
+    "title": "Nothing Phone (2)",
+    "image": "https://i.ibb.co/b5V9x6C/Nothing-Phone-2-White.png",
+    "category": "Smartphones",
+    "price": 799,
+    "description": "Sleek design with a transparent back and smooth performance.",
+    "specification": [
+      "6.7-inch OLED display",
+      "Snapdragon 8+ Gen 1",
+      "50MP Dual-camera",
+      "4,700mAh battery",
+      "Up to 12GB RAM and 256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "asus-rog-phone-7",
+    "title": "ASUS ROG Phone 7",
+    "image": "https://i.ibb.co/6nNBHR6/Asus-Rog-Phone-9-Ultimate-600x600.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "High-performance gaming smartphone with advanced cooling and stunning graphics.",
+    "specification": [
+      "6.78-inch AMOLED display, 165Hz refresh rate",
+      "Snapdragon 8 Gen 2",
+      "50MP Triple-camera system",
+      "6000mAh battery with 65W fast charging",
+      "512GB storage and 16GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "nikon-z9",
+    "title": "Nikon Z9",
+    "image": "https://i.ibb.co/H2ZLvR8/nikon-z9.webp",
+    "category": "Cameras",
+    "price": 5499,
+    "description": "Flagship mirrorless camera with advanced performance for professionals.",
+    "specification": [
+      "45.7MP full-frame sensor",
+      "8K video recording",
+      "20fps continuous shooting",
+      "ISO range of 64-25600",
+      "Weather-sealed body"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "samsung-galaxy-watch-6",
+    "title": "Samsung Galaxy Watch 6",
+    "image": "https://i.ibb.co/XVxKwRr/samsung-watch.jpg",
+    "category": "Smartwatches",
+    "price": 399,
+    "description": "Your health companion that’s always connected.",
+    "specification": [
+      "1.5-inch Super AMOLED display",
+      "Wear OS by Google",
+      "ECG and BP monitoring",
+      "Up to 40 hours battery life",
+      "Stainless steel frame"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "macbook-pro-16",
+    "title": "MacBook Pro 16-inch",
+    "image": "https://i.ibb.co/Df3JXB5/macbook-pro.webp",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "The ultimate laptop for creators and professionals.",
+    "specification": [
+      "16-inch Liquid Retina XDR display",
+      "Apple M2 Max chip",
+      "Up to 96GB unified memory",
+      "Up to 8TB storage",
+      "All-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "sony-xperia-1-v",
+    "title": "Sony Xperia 1 V",
+    "image": "https://i.ibb.co/7zfLTZG/sony-xperia-1-iv-5g-smartphone.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "High-quality imaging and multimedia features for professionals.",
+    "specification": [
+      "6.5-inch 4K HDR OLED display",
+      "Snapdragon 8 Gen 2",
+      "48MP Triple-camera",
+      "5000mAh battery",
+      "256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": "apple-airpods-pro-2",
+    "title": "Apple AirPods Pro 2",
+    "image": "https://i.ibb.co/JxcmRM2/airpods-pro.jpg",
+    "category": "Earbuds",
+    "price": 249,
+    "description": "Immersive sound with active noise cancellation.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Adaptive Transparency",
+      "Touch control",
+      "Up to 30 hours with case",
+      "Water and sweat resistance"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "asus-rog-zephyrus-g14",
+    "title": "ASUS ROG Zephyrus G14",
+    "image": "https://i.ibb.co/9bZzy7f/asus-g14.webp",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "The perfect blend of power and portability for gamers.",
+    "specification": [
+      "14-inch QHD display",
+      "AMD Ryzen 9",
+      "NVIDIA GeForce RTX 4060",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "garmin-fenix-7x",
+    "title": "Garmin Fenix 7X",
+    "image": "https://i.ibb.co/30K5ptM/garmin-watch.webp",
+    "category": "Smartwatches",
+    "price": 999,
+    "description": "Built for adventure with solar charging capabilities.",
+    "specification": [
+      "1.4-inch transflective display",
+      "Solar charging",
+      "Up to 28 days battery life",
+      "GPS, GLONASS, Galileo",
+      "Water resistant to 100 meters"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "samsung-galaxy-buds2",
+    "title": "Samsung Galaxy Buds2",
+    "image": "https://i.ibb.co/KmvqQJz/samsung-buds-2.jpg",
+    "category": "Earbuds",
+    "price": 149,
+    "description": "True wireless earbuds with noise cancellation.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Enhanced sound quality",
+      "Up to 20 hours battery life",
+      "IPX2 water resistance",
+      "Bluetooth 5.2"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "canon-eos-r7",
+    "title": "Canon EOS R7",
+    "image": "https://i.ibb.co/HV2G7SY/canon-r7.jpg",
+    "category": "Cameras",
+    "price": 1499,
+    "description": "Advanced mirrorless camera for enthusiasts.",
+    "specification": [
+      "32.5MP APS-C sensor",
+      "4K video recording",
+      "15fps continuous shooting",
+      "Dual Pixel CMOS AF II",
+      "5-axis in-body stabilization"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "oneplus-buds-pro-2",
+    "title": "OnePlus Buds Pro 2",
+    "image": "https://i.ibb.co/jJ8nf26/one-plus-buds-2.jpg",
+    "category": "Earbuds",
+    "price": 129,
+    "description": "Noise-canceling earbuds with high-quality audio.",
+    "specification": [
+      "Active Noise Cancellation",
+      "11mm dynamic drivers",
+      "Up to 28 hours battery life",
+      "IP55 water resistance",
+      "Bluetooth 5.3"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": "dell-xps-15",
+    "title": "Dell XPS 15",
+    "image": "https://i.ibb.co/vZ9vVsc/dell-xps-9520.png",
+    "category": "Laptops",
+    "price": 1899,
+    "description": "A laptop that combines power and sleek design.",
+    "specification": [
+      "15.6-inch InfinityEdge display",
+      "Intel i9-13900H",
+      "NVIDIA GeForce RTX 4070",
+      "32GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "hp-spectre-x360",
+    "title": "HP Spectre x360",
+    "image": "https://i.ibb.co/dDWJdPD/hp-spectre.jpg",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "An elegant, convertible laptop with impressive performance.",
+    "specification": [
+      "13.5-inch OLED touchscreen",
+      "Intel i7-13700H",
+      "Intel Iris Xe graphics",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.6
+  }
+]
